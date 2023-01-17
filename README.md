@@ -7,8 +7,11 @@ Gerenciador de hábitos construído na NLW Setup, projeto desenvolvido pela [Roc
 ## Tenologias utilizadaa
 
 - Node.js
+- Typescript
 - Fastify
+- Prisma
 - React
+- Vite
 - Tailwind
 - React Native
 - Expo
