@@ -13,5 +13,6 @@ Gerenciador de hábitos construído na NLW Setup, projeto desenvolvido pela [Roc
 - React
 - Vite
 - Tailwind
+- Radix UI
 - React Native
 - Expo
