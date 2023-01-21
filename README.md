@@ -21,4 +21,4 @@ Gerenciador de hábitos construído na NLW Setup, projeto desenvolvido pela [Roc
 
 [] Autenticação (Firebase, Auth0, ...)
 [] Notificação Push / Service Workers
-[] Perfil público com grafico de consumo
+[] Perfil público com grafico de resumo
